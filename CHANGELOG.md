@@ -1,3 +1,7 @@
+## 4.2.5
+
+- Updated kotlin and gradle versions
+
 ## 4.2.4
 
 - Updated kotlin and gradle versions
