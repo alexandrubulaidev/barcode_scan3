@@ -1,4 +1,4 @@
-library barcode_scan2;
+library barcode_scan3;
 
 export 'gen/protos/protos.pb.dart' show BarcodeFormat, ResultType;
 

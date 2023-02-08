@@ -1,3 +1,7 @@
+## 4.2.4
+
+- Updated kotlin and gradle versions
+
 ## 4.2.3
 
 - zxing version 1.9.13 does not exist in the mavenCentral (#60)
@@ -25,7 +29,7 @@
 ## 4.1.3
 
 - Fix Error in release mode properly (#9)
-  - Previously, it was fixed by reverting https://github.com/mono0926/barcode_scan2/commit/cea32818174b62326d3f798c264f0e78f1a05aae , but it caused another error when using with cloud_firestore etc. So that change is applied again and fixed original issue by https://github.com/mono0926/barcode_scan2/commit/d540aef8eaf693fb2628449d00aa7a422c6e1d65
+  - Previously, it was fixed by reverting https://github.com/mono0926/barcode_scan3/commit/cea32818174b62326d3f798c264f0e78f1a05aae , but it caused another error when using with cloud_firestore etc. So that change is applied again and fixed original issue by https://github.com/mono0926/barcode_scan3/commit/d540aef8eaf693fb2628449d00aa7a422c6e1d65
 
 ## 4.1.2
 
@@ -45,7 +49,7 @@
 
 ## 4.0.0
 
-- Original [barcode_scan](https://pub.dev/packages/barcode_scan) was discontinued, so [barcode_scan2](https://pub.dev/packages/barcode_scan) was borned with sound null safety support🎉
+- Original [barcode_scan](https://pub.dev/packages/barcode_scan) was discontinued, so [barcode_scan3](https://pub.dev/packages/barcode_scan) was borned with sound null safety support🎉
 
 ---
 

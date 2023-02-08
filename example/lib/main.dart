@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:io' show Platform;
 
-import 'package:barcode_scan2/barcode_scan2.dart';
+import 'package:barcode_scan3/barcode_scan3.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

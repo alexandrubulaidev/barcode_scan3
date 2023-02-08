@@ -1,7 +1,7 @@
-name: barcode_scan2
+name: barcode_scan3
 description: A flutter plugin for scanning 2D barcodes and QRCodes via camera.
-version: 4.2.3
-homepage: https://github.com/mono0926/barcode_scan2
+version: 4.2.4
+homepage: https://github.com/alexandrubulaidev/barcode_scan3
 
 dependencies:
   flutter:

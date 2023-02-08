@@ -1,13 +1,13 @@
-[![GitHub license](https://img.shields.io/github/license/mono0926/barcode_scan2.svg)](https://github.com/mono0926/barcode_scan2/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/mono0926/barcode_scan2)](https://github.com/mono0926/barcode_scan2/stargazers)
-[![Pub](https://img.shields.io/pub/v/barcode_scan2.svg)](https://pub.dartlang.org/packages/barcode_scan2)
-[![GitHub forks](https://img.shields.io/github/forks/mono0926/barcode_scan2)](https://github.com/mono0926/barcode_scan2/network)
+[![GitHub license](https://img.shields.io/github/license/mono0926/barcode_scan3.svg)](https://github.com/mono0926/barcode_scan3/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/mono0926/barcode_scan3)](https://github.com/mono0926/barcode_scan3/stargazers)
+[![Pub](https://img.shields.io/pub/v/barcode_scan3.svg)](https://pub.dartlang.org/packages/barcode_scan3)
+[![GitHub forks](https://img.shields.io/github/forks/mono0926/barcode_scan3)](https://github.com/mono0926/barcode_scan3/network)
 
 ## Reborned🎉
 
-Original [barcode_scan](https://pub.dev/packages/barcode_scan) was discontinued, so [barcode_scan2](https://pub.dev/packages/barcode_scan2) was borned with sound null safety support🎉
+Original [barcode_scan](https://pub.dev/packages/barcode_scan) was discontinued, so [barcode_scan3](https://pub.dev/packages/barcode_scan3) was borned with sound null safety support🎉
 
-# barcode_scan2
+# barcode_scan3
 
 A flutter plugin for scanning 2D barcodes and QR codes.
 
@@ -65,7 +65,7 @@ Now you can depend on the barcode_scan plugin in your pubspec.yaml file:
 ```yaml
 dependencies:
     # ...
-    barcode_scan2: any
+    barcode_scan3: any
 ```
 
 Click "Packages get" in Android Studio or run `flutter packages get` in your project folder.
@@ -87,7 +87,7 @@ To use on iOS, you must add the the camera usage description to your Info.plist
 ## Usage
 
 ```dart
-import 'package:barcode_scan2/barcode_scan2.dart';
+import 'package:barcode_scan3/barcode_scan3.dart';
 
 void main() async {
   var result = await BarcodeScanner.scan();
@@ -104,7 +104,7 @@ void main() async {
 You can pass options to the scan method:
 
 ```dart
-import 'package:barcode_scan2/barcode_scan2.dart';
+import 'package:barcode_scan3/barcode_scan3.dart';
 
 void main() async {
 
