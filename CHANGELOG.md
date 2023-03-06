@@ -1,3 +1,7 @@
+## 4.2.6
+
+- iOS Build fix
+
 ## 4.2.5
 
 - Updated kotlin and gradle versions
